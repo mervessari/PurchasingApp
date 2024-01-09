@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "title": "Sakız",
+    "price": 3,
+    "image" : "https://images.migrosone.com/macrocenter/product/7127713/07127713-43c749-43c749.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Kola",
+    "price": 30,
+    "image": "https://i.nefisyemektarifleri.com/2023/02/16/kola-kilo-aldirir-mi.jpg"
+    },
+  {
+    "id": 3,
+    "title": "Ayakkabı",
+    "price": 3400,
+    "image" : "https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/e2f70d05-5c08-4ea0-b385-b699c368b32f/blazer-mid-77-ayakkab%C4%B1-fXC3tG.png"
+  },
+  {
+    "id": 4,
+    "title": "Araba",
+    "price": 500000,
+    "image" : "https://www.cumhuriyet.com.tr/Archive/2023/3/16/2061640/kapak_135222.jpg"
+  }
+]
